@@ -16,6 +16,10 @@ h1 {
     margin: 1rem 0; 
 }
 
+.btn.btn-primary {
+    background-color: red !important;
+}
+
 .post h1:hover {
     color: #68b8ec;
 }
@@ -23,6 +27,8 @@ h1 {
 a { 
     color: #377ba8; 
 }
+
+.btn-primary { background-color: red; }
 
 a:hover {
     color: #a2b9c9;
